@@ -2,9 +2,9 @@
 
 Python console application that allows to extract text from document images using Discrete Fourier Transform and convolution.
 
-##Showcase:
+## Showcase:
 
-###Document image
+### Document image
 <p align="center">
 <img src="resources/document_image.png" alt="Document image" />
 </p>
